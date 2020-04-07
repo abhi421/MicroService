@@ -8339,11 +8339,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\30 mar microservice\\ProductMicroservice\\ProductMicroService\\ProductMicroService.csproj",
+      "projectUniqueName": "E:\\30 mar microservice\\ProductMicroService\\ProductMicroService\\ProductMicroService.csproj",
       "projectName": "ProductMicroService",
-      "projectPath": "E:\\30 mar microservice\\ProductMicroservice\\ProductMicroService\\ProductMicroService.csproj",
+      "projectPath": "E:\\30 mar microservice\\ProductMicroService\\ProductMicroService\\ProductMicroService.csproj",
       "packagesPath": "C:\\Users\\Abhinay\\.nuget\\packages\\",
-      "outputPath": "E:\\30 mar microservice\\ProductMicroservice\\ProductMicroService\\obj\\",
+      "outputPath": "E:\\30 mar microservice\\ProductMicroService\\ProductMicroService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhinay\\AppData\\Roaming\\NuGet\\NuGet.Config",
